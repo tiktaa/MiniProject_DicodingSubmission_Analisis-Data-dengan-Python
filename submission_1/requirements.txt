@@ -1,0 +1,8 @@
+Babel                         2.11.0
+matplotlib                    3.7.2
+matplotlib-inline             0.1.6
+numpy                         1.24.3
+numpydoc                      1.5.0
+pandas                        2.0.3
+seaborn                       0.12.2
+streamlit                     1.31.1
